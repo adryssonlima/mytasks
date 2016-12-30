@@ -1,0 +1,4 @@
+2016-12-29_22:32:43
+Commit da aplicação no github
+Commit de todas as alterações feitas na aplicação.
+Em execução

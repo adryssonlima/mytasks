@@ -1,0 +1,4 @@
+2016-12-29_09:05:29
+Criação e definição do model da aplicação
+Criar a classe Task com os seguintes atributos: id, titulo, descricao e status.
+Finalizada
